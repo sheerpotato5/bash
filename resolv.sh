@@ -3,6 +3,7 @@
 # The porpouse of this script is to correct the resolv.conf file in case its empty,
 # due an unknown (to me) failure that erases the file content if an USB-C NIC is connected 
 # to my pc, while WI-FI is on, and also if you switch between networks.
+# Add it to cron for more automation.
 
 file="/etc/resolv.conf"
 
