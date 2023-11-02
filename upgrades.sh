@@ -1,10 +1,7 @@
 #!/bin/bash
 
-
 #Silly script for updating, upgrading and cleaning your debian system.
 #But with colours!
-
-
 
 BLUE="\e[96m"
 GREEN="\e[92m"
