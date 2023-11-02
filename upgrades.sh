@@ -16,6 +16,5 @@ sudo apt autoclean && sudo apt autoremove -y
 
 echo -e "${GREEN}\nFin\n"
 
-exit
 
 
